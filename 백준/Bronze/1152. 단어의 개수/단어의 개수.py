@@ -1,0 +1,1 @@
+print(f"{len(list(open(0).read().strip().split()))}")
